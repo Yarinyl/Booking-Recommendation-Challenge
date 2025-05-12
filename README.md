@@ -62,18 +62,3 @@ The dataset includes:
 1. **Improve Data Quality**: Advanced cleaning and normalization.
 2. **Explore Stronger Models**: Test larger or domain-specific transformers.
 3. **Introduce Personalization**: Account for user behavior patterns and preferences.
-
-## 📁 Repository Structure
-
-```
-.
-├── data/                # Processed data files (not included here)
-├── notebooks/           # Experimentation and EDA
-├── src/                 # Preprocessing, model training, evaluation scripts
-├── requirements.txt     # Python dependencies
-└── README.md            # Project overview
-```
-
-## 📜 License
-
-This project is released for educational purposes only. Please refer to the Kaggle competition rules before reusing the code.
