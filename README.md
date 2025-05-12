@@ -1,7 +1,7 @@
 
 # 🏨 Matching Booking Users to Their Reviews — Kaggle Solution
 
-This repository contains the solution developed by **Yarin Yerushalmi Levi** and **Idan Yankelev** for the **"Matching Booking Users to Their Reviews"** Kaggle competition.
+This repository contains the solution developed by **Yarin Yerushalmi Levi** and **Idan Yankelev** for the **"Matching Booking Users to Their Reviews"** Kaggle competition as part of Advanced Topics in Recommendation Systems Course.
 
 ## 📌 Problem Overview
 
